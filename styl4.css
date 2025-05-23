@@ -2,5 +2,18 @@ body{
     font-style: Garamond;
 }
 header{
-    
+    background-color: saddlebrown;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+#left{
+    background-color: tan;
+    height: 500px;
+    width: 40%;
+}
+.prawe{
+    background-color: tan;
+    height: 250px;
+    width: 60%;
 }
