@@ -1,2 +1,0 @@
-# repoLaba
-jebacodkurzacze
